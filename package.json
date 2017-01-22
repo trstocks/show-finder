@@ -1,0 +1,23 @@
+{
+  "name": "showfinder-frontend",
+  "version": "1.0.0",
+  "description": "frontend configuration for gig-lookup",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Troy Stocks <slipstreamanthem@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.5.9",
+    "angular-animate": "^1.5.9",
+    "angular-aria": "^1.5.9",
+    "angular-material": "^1.1.1",
+    "angular-messages": "^1.5.9",
+    "angular-route": "^1.6.1",
+    "async": "^2.1.4",
+    "express": "^4.14.0",
+    "http": "0.0.0",
+    "socket.io": "^1.7.2"
+  }
+}

@@ -1,0 +1,4 @@
+db.createUser({user: "tstocks",pwd: "Snatch32",roles: [ { role: "userAdminAnyDatabase", db: "admin" } ]})
+
+
+db.createUser({user:"apiuser1",pwd:"Snatch32",roles:[{role:"dbAdmin", db:"giglookup"}]})
